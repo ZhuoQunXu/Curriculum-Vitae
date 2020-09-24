@@ -1,5 +1,4 @@
-<!-- <h1 align = "center">Fan Wu</h1>
-<center> University of Science and Technology of China, Anhui 230026, China</center> -->
+
 
 ## Education ![](./split.png)
 **Tsinghua University**  <span style="float:right" face="italic"> *September 2018 - present* </span> <br> M.S. in Tsinghua University, <br> Department of Automation, GPA: (3.24/4.0).  (82/100)
